@@ -1,6 +1,6 @@
 # ✨ Shree Singhi
 
-Welcome to my digital workshop! I'm a final year B.Tech. Student in Data Science and AI at **IIT Roorkee**, I am passionate about Computer Vision, Geometric Deep Learning, and Explainable & Adversarial ML.
+Welcome to my digital workshop! I'm a final year B.Tech. Student in Data Science and AI at **IIT Roorkee**, I am passionate about 2D & 3D Computer Vision, Geometric Deep Learning, and Explainable & Adversarial ML.
 
 ---
 
